@@ -60,4 +60,3 @@ harnessing the power of these two incredibly powerful and versatile tools.
 | 04:00 - 04:15 | `Q & Aand Wrapping Up`                                                   |
 
 
-.end
